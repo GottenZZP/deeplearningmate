@@ -107,6 +107,33 @@ dlmate install-stack pytorch  # 包含CUDA + cuDNN + PyTorch
 
 ## 📞 支持
 
-- 📖 [文档](https://github.com/yourusername/deeplearningmate/wiki)
-- 🐛 [问题反馈](https://github.com/yourusername/deeplearningmate/issues)
-- 💬 [讨论区](https://github.com/yourusername/deeplearningmate/discussions)
+- 📖 [文档](https://github.com/GottenZZP/deeplearningmate/wiki)
+- 🐛 [问题反馈](https://github.com/GottenZZP/deeplearningmate/issues)
+- 💬 [讨论区](https://github.com/GottenZZP/deeplearningmate/discussions)
+
+## 📊 项目统计
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/GottenZZP/deeplearningmate?style=for-the-badge&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/GottenZZP/deeplearningmate?style=for-the-badge&logo=github)
+![GitHub issues](https://img.shields.io/github/issues/GottenZZP/deeplearningmate?style=for-the-badge&logo=github)
+![GitHub license](https://img.shields.io/github/license/GottenZZP/deeplearningmate?style=for-the-badge)
+
+</div>
+
+### ⭐ Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GottenZZP/deeplearningmate&type=Date)](https://star-history.com/#GottenZZP/deeplearningmate&Date)
+
+</div>
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，请给它一个 ⭐ Star！**
+
+</div>
