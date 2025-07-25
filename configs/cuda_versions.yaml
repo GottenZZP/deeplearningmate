@@ -1,0 +1,16 @@
+cuda_versions:
+  "11.8":
+    release_date: "2022-09-28"
+    end_of_life: "2024-09-28"
+    compatible_drivers: ["520.61.05", "525.60.13"]
+    download_size: "3.5GB"
+    
+  "12.0":
+    release_date: "2022-12-08"
+    end_of_life: "2025-12-08"
+    compatible_drivers: ["525.60.13", "530.30.02"]
+    download_size: "3.8GB"
+
+auto_cleanup:
+  keep_versions: 3  # 最多保留3个版本
+  cache_size_limit: "20GB"  # 缓存大小限制
